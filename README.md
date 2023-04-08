@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kushagara175
-- 👀 I’m interested in nfts
-- 🌱 I’m currently learning nfts
-- looking to collaborate on ...projects 
-- 📫 How to reach me ...kushagarasingh175@gmail.com
+blockchain developer ,full stack developer
 
 <!---
 kushagara175/kushagara175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
